@@ -174,7 +174,6 @@ var wordyWords = [
   'procure',
   'proficiency',
   'provided that',
-  'purchase',
   'put simply',
   'readily apparent',
   'refer back',
